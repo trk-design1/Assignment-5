@@ -1,3 +1,9 @@
+
+<img width="1908" height="695" alt="Screenshot 2026-03-31 133720" src="https://github.com/user-attachments/assets/d3afb8a8-3113-476c-94f5-155e149e67bc" />
+
+
+<img width="1919" height="969" alt="Screenshot 2026-04-01 100802" src="https://github.com/user-attachments/assets/f87f3f54-416d-4261-8d5e-b59960addb82" />
+
 ADDRESING DOCUMENTATION
 |Device               |IP address           |
 |---------------------|---------------------|
