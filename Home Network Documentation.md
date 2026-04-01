@@ -30,13 +30,13 @@ SERVICES
 
 DEVICE CONFIGURATION
 Router Configuration
-IP: 192.168.100.1
-DHCP Enabled: Yes
-DHCP Range: 192.168.100.101 – 192.168.1.150
-Wi-Fi SSID: BELL-567
-Security: WPA2/WPA3 Personal
-Firewall: Enabled
-Remote Management: Disabled
+1. IP: 192.168.100.1
+2. DHCP Enabled: Yes
+3. DHCP Range: 192.168.100.101 – 192.168.1.150
+4. Wi-Fi SSID: BELL-567
+5. Security: WPA2/WPA3 Personal
+6. Firewall: Enabled
+7. Remote Management: Disabled
 
 CREDENTIAL SECURITY METHOD
 1. Google password manager
